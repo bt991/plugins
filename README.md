@@ -7,20 +7,20 @@
 | [One Click Tithe](#one-click-tithe) | [Click Here](https://github.com/bt991/plugins/tree/master/oneclicktithe/src/main/java/net/runelite/client/plugins/oneclicktithe) |
 | [One Click Vorkath](#one-click-vorkath) | [Click Here](https://github.com/bt991/plugins/tree/master/oneclickvorkath) |
 
-### one-click-3t-mine
+### One Click 3t Mine
 Choose type of items to tick manipulate with, will 3t mine and drop iron ores as you obtain them.
 
-### one-click-hunter
+### One Click Hunter
 WIP
 
-### one-click-redwoods
+### One Click Redwoods
 Will chop redwood logs at farming guild, provided you have the tree grown. Supports banking logs at the deposit box.
 
-### one-click-thieving
+### One Click Thieving
 Thieves from specific NPC ID. Ability to choose what type of food to eat. Supports banking if specified NPC is Ardougne Knight at the Southern bank.
 
-### one-click-tithe
+### One Click Tithe Farm
 WIP
 
-### one-click-vorkath
+### One Click Vorkath
 WIP
