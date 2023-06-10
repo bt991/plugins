@@ -33,7 +33,7 @@ import java.util.Set;
 @PluginDescriptor(
       name = "One Click 3T Iron",
       description = "3 tick ironing made easy",
-      tags = {"mcneill", "iron", "3t","mine","mining"},
+      tags = {"iron", "3t","mine","mining"},
       enabledByDefault = false
 )
 @Slf4j

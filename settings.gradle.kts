@@ -33,14 +33,12 @@ rootProject.name = "unethicalite-plugins"
 //include("hoot-notifier")
 //include("hoot-karambwanfisher")
 
-//include("oneclick3tmine")
-//include("oneclickhunternew")
+include("oneclick3tmine")
+include("oneclickhunternew")
 include("oneclickredwoods")
-//include("oneclickthieving")
-//include("OneClickTithe")
-//include("oneclickvorkath")
-//include("example-kotlin")
-//include("unethical-birdhouses")
+include("oneclickthieving")
+include("OneClickTithe")
+include("oneclickvorkath")
 
 for (project in rootProject.children) {
     project.apply {
